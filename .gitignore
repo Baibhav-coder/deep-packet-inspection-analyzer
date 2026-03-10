@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pcap
+*.png
+*.log
+
+allowed_output.pcap
+blocked_output.pcap
